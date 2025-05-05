@@ -1,0 +1,17 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mopster Cleaning Services</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
+  <style>
+    body { font-family: 'Poppins', sans-serif; margin: 0; padding: 0; }
+    header { background: linear-gradient(90deg, #ffd700, #00bfff); text-align: center; padding: 1.5rem; }
+    header img { max-width: 100px; }
+    nav { text-align: center; margin: 1rem 0; }
+    nav a { margin: 0 1rem; text-decoration: none; font-weight: bold; color: #000; }
+    main { padding: 2rem; }
+    footer { background: #ffd700; text-align: center; padding: 1rem; margin-top: 2rem; }
+  </style>
